@@ -19,3 +19,7 @@ You will find:
 [Presentation](https://github.com/Rawanawh/MTA-ExploratoryDataAnalysis/blob/main/MTA%20presentation%20.pdf)
 
 [WriteUp](https://github.com/Rawanawh/MTA-ExploratoryDataAnalysis/blob/main/MTA%20Project%20writeup.pdf)
+
+Conclusion 
+
+RA Architecture and design found the least visit ten stations to start design and constructions to install the sliding doors to it to prevent the station from being damaged by any future increasing of the water level.
