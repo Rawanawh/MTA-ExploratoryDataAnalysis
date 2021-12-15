@@ -1,13 +1,21 @@
-# MTA-ExploratoryDataAnalysis
+# MTA Station Remodelling
+![NYC](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT_MHN-1vgh9AsVGozoVqj8RdUnu7KT35qpOA&usqp=CAU)
+
+
 Abstract
+
 The goal of this project is to redesign gates for the stations. To make the subway tunnels flood-
 proof by adding sliding doors. To protect the city subway system from flooding to avoid the high
 coasts of repairs after the damage is done. I worked with data provided by MTA
 
-You will find 
+You will find:
 
-[MTA Project Proposal](https://github.com/Rawanawh/MTA-ExploratoryDataAnalysis/blob/main/project%20proposal%20.pdf)
+[Project Proposal](https://github.com/Rawanawh/MTA-ExploratoryDataAnalysis/blob/main/project%20proposal%20.pdf)
 
 [Minimum Valuable Product](https://github.com/Rawanawh/MTA-ExploratoryDataAnalysis/blob/main/MVP%20project.pdf)
 
 [The Code](https://github.com/Rawanawh/MTA-ExploratoryDataAnalysis/blob/main/mydatafrommta.ipynb)
+
+[Presentation](https://github.com/Rawanawh/MTA-ExploratoryDataAnalysis/blob/main/MTA%20presentation%20.pdf)
+
+[WriteUp](https://github.com/Rawanawh/MTA-ExploratoryDataAnalysis/blob/main/MTA%20Project%20writeup.pdf)
