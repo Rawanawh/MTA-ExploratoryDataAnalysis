@@ -4,9 +4,7 @@
 
 ### Abstract
 
-The goal of this project is to redesign gates for the stations. To make the subway tunnels flood-
-proof by adding sliding doors. To protect the city subway system from flooding to avoid the high
-coasts of repairs after the damage is done. I worked with data provided by MTA
+The goal of this project is to do an Exploratory Data Analysis to find out the least visited ten stations to starts redesigning gates for the stations. To make the subway tunnels flood- proof by adding sliding doors. To protect the city subway system from flooding to avoid the high costs of repairs after the damage is done.
 
 ### You will find:
 
